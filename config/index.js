@@ -44,11 +44,11 @@ export const config = {
       openUrl: "https://wangxinleo.cn"
     }, 
     {
-      name: "老婆1", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
+      name: "小乖", 
+      id: "oqT4v5g2FwiLi_wOYZs4gmNwhIUM",
+      useTemplateId: "	ThEu3wBqXe3eFzZz8HYh_5qoQdVOhbjpigfjbRweiD0",
+      province: "江苏",
+      city: "张家港",
       openUrl: "https://wangxinleo.cn"
     }, 
     {
@@ -106,10 +106,10 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "老婆", "year": "1996", "date": "09-02"},
-    {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
-    {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
-    {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
+    {"type": "生日", "name": "陆圣怡", "year": "2004", "date": "10-15"},
+    {"type": "节日", "name": "在一起纪念日", "year": "2021", "date": "12-20"},
+    {"type": "生日", "name": "徐玉泽", "year": "2004", "date": "01-31"},
+    {"type": "节日", "name": "过年", "year": "2023", "date": "01-22"},
   ],
 
   /**
